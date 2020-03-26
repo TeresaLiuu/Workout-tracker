@@ -1,11 +1,5 @@
 'use strict';
 
-const Cardio = require('./Cardio');
-const Resistance = require('./Resistance');
-const Exercise = require('./Exercise');
+const Workout = require('./Workout');
 
-module.exports = {
-    Cardio,
-    Resistance,
-    Exercise
-};
+module.exports = Workout ;
