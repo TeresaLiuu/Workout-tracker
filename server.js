@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.static('public'));
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/workoutdb',
+  process.env.MONGODB_URI || 'mongodb://<dbuser>:<dbpassword>@ds149124.mlab.com:49124/heroku_b4bj9j51',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
