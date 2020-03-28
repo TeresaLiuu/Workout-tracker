@@ -1,7 +1,9 @@
 # Workout-tracker
 
 This is a work out tracker app.
-The user can track their workout by simply creating, and update their workout
+The user can track their workout by simply creating, and update their workout.
+
+Deployed app : ()
 
 ![inAction1](./public/assets/img/ScreenShot.png) 
 
@@ -24,10 +26,5 @@ The user can track their workout by simply creating, and update their workout
 
 
 ## Features:
-- Get the user information from github
-    - including : user image, username, location, github link, blog, bio, public repos, number of followers and following, and the number of star repos
-
-- With getting all the information above, user can choose a color they like in node
-
-- It will then generate the information into a resume format html and pdf
-
+- User can create new workout / or update their previous workout
+- User can also view their workout status on the stats page
