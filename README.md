@@ -11,11 +11,17 @@ The user can track their workout by simply creating, and update their workout
 - Features
 
 ## Technologies
-Here are the npm package.json used :
+
+- MongoDB
+- Mongoose
+- Express
+
+  Here are the npm package.json used :
 - dependencies: 
-    - axios: ^0.19.2,
-    - html-pdf: ^2.2.0,
-    - inquirer: ^7.0.4, 
+    - "express": "^4.17.1",
+    - "mongoose": "^5.9.5",
+    - "morgan": "^1.10.0" 
+
 
 ## Features:
 - Get the user information from github
