@@ -3,7 +3,7 @@
 This is a work out tracker app.
 The user can track their workout by simply creating, and update their workout.
 
-Deployed app : ()
+Deployed app : (https://workoutplanhw.herokuapp.com/)
 
 ![inAction1](./public/assets/img/ScreenShot.png) 
 
